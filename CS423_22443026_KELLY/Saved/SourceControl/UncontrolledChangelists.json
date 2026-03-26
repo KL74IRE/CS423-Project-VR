@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/gkgle/Documents/Unreal Projects/CS423_22443026_KELLY/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/gkgle/Documents/Unreal Projects/CS423_22443026_KELLY/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/gkgle/Documents/Unreal Projects/CS423_22443026_KELLY/Content/StarterContent/Materials/M_Wood_Oak.uasset",
+				"C:/Users/gkgle/Documents/Unreal Projects/CS423_22443026_KELLY/Content/StarterContent/Materials/OakFloorInstance.uasset",
+				"C:/Users/gkgle/Documents/Unreal Projects/CS423_22443026_KELLY/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
+				"C:/Users/gkgle/Documents/Unreal Projects/CS423_22443026_KELLY/Content/LevelPrototyping/Meshes/SM_Cube.uasset",
+				"C:/Users/gkgle/Documents/Unreal Projects/CS423_22443026_KELLY/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset",
+				"C:/Users/gkgle/Documents/Unreal Projects/CS423_22443026_KELLY/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset",
+				"C:/Users/gkgle/Documents/Unreal Projects/CS423_22443026_KELLY/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset",
+				"C:/Users/gkgle/Documents/Unreal Projects/CS423_22443026_KELLY/Content/VRTemplate/Maps/_GENERATED/gkgle/PlaneCutOtherPart_BD5DAE4D.uasset",
+				"C:/Users/gkgle/Documents/Unreal Projects/CS423_22443026_KELLY/Content/VRTemplate/Maps/_GENERATED/gkgle/PlaneCutOtherPart_E5B6094B.uasset",
+				"C:/Users/gkgle/Documents/Unreal Projects/CS423_22443026_KELLY/Content/StarterContent/Materials/M_Ground_Gravel.uasset",
+				"C:/Users/gkgle/Documents/Unreal Projects/CS423_22443026_KELLY/Content/StarterContent/Materials/M_Wood_Pine.uasset",
+				"C:/Users/gkgle/Documents/Unreal Projects/CS423_22443026_KELLY/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+			]
+		}
+	]
+}
